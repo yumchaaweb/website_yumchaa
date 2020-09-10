@@ -1,0 +1,160 @@
+.topnav {
+    color: Black;
+    background-image:url('picture/pattern_background_light_lines_waves_surface_50942_1680x1050.jpg');
+    overflow: hidden;
+    text-align:center;   
+}
+.announcement {
+font-size:large;
+    color: white;
+	font-weight:bolder;
+    background-color:black;
+    overflow: hidden;
+    text-align:center;   
+	 padding: 20px;
+}
+.topnav a {
+    color:black;
+    font-weight:bolder;
+    text-align: center;
+    padding: 18px 20px;
+    text-decoration:none;
+    font-size: 30px;
+}
+body{
+	background-color: #F6F6F7;
+	margin:auto auto auto auto;
+	
+}
+#side{
+	width:50px;
+	height:50px;
+	float:right;
+	margin-right:2%;
+	background-attachment:fixed;
+
+}
+
+
+
+.para{
+	text-align:center;
+	font-family:"Times New Roman", Times, serif;
+	font-size:large;
+	margin:0% 5% 3% 5%;
+
+}
+
+.center{
+	text-align:center;
+}
+
+.gallery{
+	padding: 15px;
+    margin-left:30px;
+    margin-top:15px;
+    float:left;
+   }
+   
+#right{
+	color: #ff9980;
+	font-size:small;
+	text-decoration:blink;
+	}
+	
+.small{
+padding:3%;	
+text-align:center;
+left: 12px; top: -13px
+}
+
+#message{
+padding:3%;
+text-align:inherit;
+
+}
+
+.block a {	;
+text-decoration:none;
+margin-left: 2%;
+
+
+}
+.block{
+	border:thick double #FF9933;
+	border-width:10px;
+	font-weight:bold;
+	font-size:x-large;
+	font-family:"Lucida Handwriting";
+	text-align:center;
+	margin-left: 2%;
+	margin-right:2%;
+
+}
+
+.entry{
+float:right;
+padding-right:300px;
+}
+
+.sansserif {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+li{
+	width: 659px;
+}
+
+th{
+    text-align: center;
+    font-size:xx-large;
+    font-weight:bold;
+    color:red;
+    background:#FFCC00
+ }
+
+table#hour, th, td{
+	border: 1px solid black;
+    border-collapse: collapse;
+    padding:2%; 
+    width:250px;
+}
+
+
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Insta */
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color:   #3F4B45;
+  color: white;
+}
+
